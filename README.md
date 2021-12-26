@@ -1,6 +1,6 @@
 # aquabsd
 
-Releases and issue tracker for aquaBSD.
+Releases & issue tracker for aquaBSD.
 Currently at aquaBSD 1.0 Alps (beta 1221a)
 
 ## Issues
