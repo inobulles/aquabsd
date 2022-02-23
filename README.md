@@ -1,14 +1,14 @@
 # aquabsd
 
 Releases & issue tracker for aquaBSD.
-Currently at aquaBSD 1.0 Alps (beta 1221a)
+Currently at aquaBSD 1.0 Alps (beta 0222a)
 
 ## Issues
 
 When creating an issue, please include the relevant version name in square brackets at the beginning of the title:
 
 ```
-[1221a] Issue title
+[0222a] Issue title
 ```
 
 Also be sure your title is descriptive, clear, & concise.
